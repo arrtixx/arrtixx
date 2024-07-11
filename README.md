@@ -1,0 +1,2 @@
+- Hi, I'm Arrtix_x!
+- I make simple applications with VisualBasic (with .NET framework) and simple tools in Python.
